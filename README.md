@@ -72,8 +72,8 @@ The Web-Based Online Voting System is a digital solution designed to facilitate 
 - Cast their vote securely.
 
 ## Admin Panel Login Details
-- Username: ssvps@gmail.com
-- Password: pass@123
+- Username: jeanaimeiraguha@gmail.com
+- Password: Cyusa@
 
 
 ⬤ Please do ⭐ the Repository, if it helped you in anyway.
